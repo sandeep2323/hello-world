@@ -1,2 +1,2 @@
 # hello-world
-learning purpose
+This is created and updated for learning purpose
